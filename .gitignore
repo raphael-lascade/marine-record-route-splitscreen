@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.temp/
+stock_cache/
+output/
+.DS_Store
